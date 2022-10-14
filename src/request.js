@@ -10,3 +10,5 @@ export const requests = {
   feactRomanceMovies: `/discover/tv?api_key=${API_KEY}&with_genres=10749`,
   feactDocumentMovies: `/discover/tv?api_key=${API_KEY}&with_genres=99`,
 };
+
+// https://api.themoviedb.org/3/movie/550?api_key=66fbcf16166b6e5195ee8638efc22d7e

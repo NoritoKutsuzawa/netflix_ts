@@ -31,5 +31,5 @@ export const Row = ({ title, fetchUrl }: Props) => {
 
   console.log(movies);
 
-  return <div className="Row"></div>;
+  return <div className="Row" />;
 };
